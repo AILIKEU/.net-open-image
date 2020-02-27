@@ -1,0 +1,11 @@
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\obj\x86\Debug\OpenPhoto.Form1.resources
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\obj\x86\Debug\OpenPhoto.Properties.Resources.resources
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\obj\x86\Debug\OpenPhoto.csproj.GenerateResource.Cache
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\bin\Debug\OpenPhoto.exe
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\bin\Debug\OpenPhoto.pdb
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\obj\x86\Debug\OpenPhoto.exe
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\obj\x86\Debug\OpenPhoto.pdb
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\bin\Debug\OpenPhoto.exe.manifest
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\bin\Debug\OpenPhoto.application
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\obj\x86\Debug\OpenPhoto.exe.manifest
+c:\users\hy\documents\visual studio 2010\Projects\OpenPhoto\OpenPhoto\obj\x86\Debug\OpenPhoto.application
